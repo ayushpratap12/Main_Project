@@ -16,3 +16,13 @@ The specific Objects Includes:
 5. Scalability & Performance Optimization:
 6. Integration with External Data Source:
    
+### Tools and Technologies Used:
+
+1. Python
+2. Numpy and Pandas for Data Cleaning
+3. Matplotlib and Seaborn for data visualization
+4. Sklearn for model Building
+5. Jupyter Notebook and Pycharm as IDE
+6. Pickle Dataset File
+7. Pyhton Streamlit for UI design
+
